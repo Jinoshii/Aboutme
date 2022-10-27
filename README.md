@@ -1,2 +1,2 @@
 # Aboutme
-class project
+This is a website all about me!
